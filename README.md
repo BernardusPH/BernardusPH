@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I like teaching a little even if I know little**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
