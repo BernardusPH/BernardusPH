@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bernardus Hechter</h1>
+<h1 align="center">Hi 👋, I'm Bernardus Petrus Hechter</h1>
 <h3 align="center">A passionate Junior Fullstack web developer from South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bernardusph&label=Profile%20views&color=0e75b6&style=flat" alt="bernardusph" /> </p>
